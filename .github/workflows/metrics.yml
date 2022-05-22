@@ -25,7 +25,6 @@ jobs:
           user: rizz-wan
           template: classic
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
           config_display: large
           config_octicon: yes
           config_timezone: Asia/Kolkata
@@ -40,7 +39,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_base_indepth: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
