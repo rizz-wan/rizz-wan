@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Rizwan
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizz-wan&theme=monokai" alt="summary"/></p>
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=rizz-wan.rizz-wan" alt="visitors"/> <a href="https://irizwan.com"><img src="https://img.shields.io/badge/web-irizwan.com-blue.svg" alt="web"/></a> <a href="www.linkedin.com/in/irizwan"><img src="https://img.shields.io/badge/linkedin-irizwan-blue.svg" alt="web"/></a></p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=rizz-wan.rizz-wan" alt="visitors"/></p>
+<p align="center"><a href="https://irizwan.com"><img src="https://img.shields.io/badge/web:-irizwan.com-gray.svg" alt="web"/></a> <a href="https://www.linkedin.com/in/irizwan"><img src="https://img.shields.io/badge/linkedin:-irizwan-gray.svg" alt="web"/></a> <a href="https://codepen.io/rizz-wan"><img src="https://img.shields.io/badge/codepen:-rizzwan-gray.svg" alt="codepen"/></a></p>
 
 ## 🔧 Technologies
 
