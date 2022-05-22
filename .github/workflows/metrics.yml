@@ -46,7 +46,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_notable: yes
-          plugin_notable_filter: stars:>100
+          plugin_notable_filter: stars:>1
           plugin_notable_repositories: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
@@ -58,3 +58,7 @@ jobs:
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
+          plugin_skyline_year: current-year
