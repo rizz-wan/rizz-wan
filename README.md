@@ -1,14 +1,19 @@
-👋 Hi, I’m Rizwan
+# 👋 Hi, I’m Rizwan
 
-Find the things I am currently working on below.
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizz-wan&theme=monokai" alt="summary"/></p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=rizz-wan.rizz-wan" alt="visitors"/> <a href="https://irizwan.com"><img src="https://img.shields.io/badge/web-irizwan.com-blue.svg" alt="web"/></a> <a href="www.linkedin.com/in/irizwan"><img src="https://img.shields.io/badge/linkedin-irizwan-blue.svg" alt="web"/></a></p>
 
-To get more insights about me, please head towards [my website](https://irizwan.com).
+## 🔧 Technologies
 
-![Metrics](https://github.com/rizz-wan/rizz-wan/blob/main/github-metrics.svg)
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,php,nodejs,react,github,c,angular,java,md,azure,mysql,nextjs,py,redux,ember,vscode&theme=dark" alt="technology" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rizz-wan&show_icons=true&theme=gotham" alt="stats" />
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizz-wan&langs_count=6&layout=compact&theme=gotham" alt="languages" />
+<div align="center"> <img src="https://github.com/rizz-wan/rizz-wan/blob/main/github-metrics.svg" alt="metrics" /></div>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rizz-wan&show_icons=true&theme=gotham" alt="stats" /></p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizz-wan&langs_count=6&layout=compact&theme=gotham" alt="languages" /></p>
 
 ---
 
