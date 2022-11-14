@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rizz-wan
+# 👋 Hi, I’m Rizwan
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizz-wan&theme=monokai" alt="summary"/></p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=rizz-wan.rizz-wan" alt="visitors"/></p>
@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center"> <img src="https://github.com/rizz-wan/rizz-wan/blob/main/github-metrics.svg" alt="metrics" /></div>
+<div align="center"> <img src="https://github.com/rizz-wan/rizz-wan/blob/main/dist/github-metrics.svg" alt="metrics" /></div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rizz-wan&show_icons=true&theme=gotham" alt="stats" /></p>
 
