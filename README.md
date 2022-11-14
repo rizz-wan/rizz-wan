@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rizwan
+# 👋 Hi, I’m Rizz-wan
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizz-wan&theme=monokai" alt="summary"/></p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=rizz-wan.rizz-wan" alt="visitors"/></p>
