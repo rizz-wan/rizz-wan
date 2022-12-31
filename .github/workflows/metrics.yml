@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: rizz-wan
+          user: irizwankhan
           template: classic
           base: header, activity, community, repositories, metadata
           filename: dist/github-metrics.svg
