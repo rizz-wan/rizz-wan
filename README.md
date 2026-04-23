@@ -1,21 +1,57 @@
-# 👋 Hi, I’m Rizwan
+# Rizwan
 
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizz-wan&theme=monokai" alt="summary"/></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rizz-waan&color=blue" alt="visitors"/></p>
-<p align="center"><a href="https://irizwan.com"><img src="https://img.shields.io/badge/web:-irizwan.com-gray.svg" alt="web"/></a> <a href="https://www.linkedin.com/in/rizz-wan"><img src="https://img.shields.io/badge/linkedin:-rizz_wan-gray.svg" alt="web"/></a> <a href="https://codepen.io/rizz-wan"><img src="https://img.shields.io/badge/codepen:-rizz_wan-gray.svg" alt="codepen"/></a></p>
+Full-stack developer and product designer from India.
+I build at the intersection of engineering precision and design intuition — thoughtful products, not just functional ones.
 
-## 🔧 Technologies
-
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,php,nodejs,react,github,c,angular,java,md,azure,mysql,nextjs,py,redux,ember,vscode&theme=dark" alt="technology" /></p>
+> Building what's next — where AI meets craft, and interfaces become experiences.
 
 ---
 
-<div align="center"> <img src="https://github.com/rizz-wan/rizz-wan/blob/main/dist/github-metrics.svg" alt="metrics" /></div>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rizz-wan&show_icons=true&theme=gotham" alt="stats" /></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizz-wan&langs_count=6&layout=compact&theme=gotham" alt="languages" /></p>
+`JavaScript` · `TypeScript` · `React` · `Node.js` · `Python` | `LLM Integration` · `Agentic AI` | `SQL` · `MongoDB` | `Azure` | `System Design` | `.NET` · `C#` · `Java` | `Chrome Extensions`
 
 ---
 
-Handcrafted with 💖 by [Rizwan Khan](https://irizwan.com)
+#### Featured
+
+> **🥊 [Pushback](https://pushback.me)**
+> *The co-founder who won't just agree.*
+>
+> Your brutally honest AI thinking partner. Stress-test every idea before reality does.
+>
+> `React` `TypeScript` `AI / LLM` `React`
+
+> **📤 [Export GPT](https://chromewebstore.google.com/detail/export-gpt-gemini/pipfffccmkdbpmnnpcnbecjmbgacnkob)**
+> *One-click export for your AI conversations.*
+>
+> Export ChatGPT & Gemini conversations to clean PDF or interactive HTML — smart cleanup, portable, shareable.
+>
+> `Chrome Extension` `JavaScript` `Manifest V3`
+
+> **🔗 [ToLinks](https://chromewebstore.google.com/detail/tolinks-smart-shortcuts-l/emlbogjofmkhpbmpjfgpecpdkjjjdfkm)**
+> *Your links, instantly organized.*
+>
+> Turn long URLs into memorable `to/` shortcuts. Navigate by intent, not bookmarks.
+>
+> `React` `TypeScript` `Chrome Storage API` `Manifest V3`
+
+> **📑 [OneLinks](https://chromewebstore.google.com/detail/onelinks-a-tab-manager-fo/epmcpbfapgeekmidhkekddpmcbdlkonp)**
+> *Your tabs, finally under control.*
+>
+> Save tab groups, organize sessions, and restore entire workflows in one click.
+>
+> `Chrome Extension` `JavaScript` `Manifest V3`
+
+> **🍹 [Mocktail](https://mocktail.vercel.app/)**
+> *Enterprise React, fast-tracked.*
+>
+> Production-ready React templates — base, MSAL-authenticated, and lightweight variants with modular architecture.
+>
+> `React` `TypeScript` `MSAL` `Modular Architecture`
+
+---
+
+<p align="center">
+<a href="https://irizwan.in">irizwan.in</a> · <a href="https://www.linkedin.com/in/rizz-wan/">LinkedIn</a> · <a href="https://codepen.io/rizz-wan">CodePen</a>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=rizz-wan&style=flat-square&color=grey&label=profile+views" alt="Profile views" />
+</p>
